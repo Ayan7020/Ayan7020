@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 **BSc IT Student** passionate about backend development and transforming logic into scalable systems  
+🎓 **BSc IT Graduate** passionate about backend development and transforming logic into scalable systems  
 💻 **Backend Developer** focused on clean, maintainable code and robust architectures  
 🌱 Currently exploring **Cloud Technologies**, **Microservices**, and **System Design**  
 📍 Based in **Kalyan, India**  
