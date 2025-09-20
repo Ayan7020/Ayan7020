@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ayan Shaikh (@Ayan7020)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+Developer;BSc+IT+Student;Python+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+Developer;BSc+IT+Graduate;Python+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
