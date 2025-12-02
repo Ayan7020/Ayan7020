@@ -85,17 +85,7 @@
 - 🌱 Learning **Kubernetes** and **DevOps practices**
 - 👯 Open to collaborate on **open-source backend projects**
 - 💡 Exploring **GraphQL** and **gRPC** technologies
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayan7020&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan7020&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan7020&theme=tokyonight" alt="GitHub Streak">
-</div>
+ 
 
 ## 🏅 Achievements
 
@@ -127,6 +117,6 @@
 
 <div align="center">
   
-  **🚀 Ready to build something amazing together? Let's connect!**
+  **Ready to build something amazing together? Let's connect!**
   
 </div>
