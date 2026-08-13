@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=FUll_Stack+Developer;Python+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
+![Ayan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayan7020&theme=tokyo-night)  
+
 ## About Me
 
 Full-stack developer building services for **POS systems** — the APIs, data layer, and product flows that keep real transactions moving.
