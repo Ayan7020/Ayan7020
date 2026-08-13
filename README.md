@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Ayan Shaikh (@Ayan7020)
+# Hi, I'm Ayan Shaikh (@Ayan7020)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+Developer;BSc+IT+Graduate;Python+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=FUll_Stack+Developer;Python+%7C+Node.js+%7C+TypeScript;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
-🎓 **BSc IT Graduate** passionate about backend development and transforming logic into scalable systems  
-💻 **Backend Developer** focused on clean, maintainable code and robust architectures  
-🌱 Currently exploring **Cloud Technologies**, **Microservices**, and **System Design**  
-📍 Based in **Kalyan, India**  
+Full-stack developer building services for **POS systems** — the APIs, data layer, and product flows that keep real transactions moving.
+
+I build systems with clear boundaries: typed backends, Postgres-backed services, careful auth, and enough observability to debug production without guessing. Frontend when the product needs it; backend when correctness matters.
+
+Obsessed with making the boring path reliable — request lifecycle, failure modes, and traces that actually explain what happened.   
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -22,10 +22,16 @@
 ### Backend & Frameworks 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### Message Brokers / Queues
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Observability
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Loguru](https://img.shields.io/badge/Loguru-0EA5E9?style=for-the-badge)
 
 ### Databases & Cloud 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -35,66 +41,10 @@
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🏆 Featured Projects
-
-### 🍕 [Food Delivery API](https://github.com/Ayan7020/food-delivery-api)
-**Backend API for food delivery platform**
-- Built with **Python** and modern frameworks
-- Features: Order management, user authentication, payment integration
-- RESTful API design with comprehensive documentation
-- ⭐ **1 Star** | 🔧 **Latest Update: Aug 2025**
-
-### 🏥 [Doctress - Healthcare Platform](https://github.com/Ayan7020/Doctress-bd)
-**Complete healthcare management system backend**
-- **Python/Django** backend with secure patient data handling
-- Features: Appointment scheduling, medical records, doctor profiles
-- HIPAA-compliant data security measures
-- ⭐ **1 Star** | 🔧 **Backend + Frontend Integration**
-
-### 🎓 [LearnNest - E-Learning Platform](https://github.com/Ayan7020/LearnNest)
-**Scalable educational platform backend**
-- Built with **TypeScript/Node.js**
-- Features: Course management, progress tracking, user analytics
-- Microservices architecture implementation
-- ⭐ **1 Star** | 🔧 **Modular Design**
-
-### 💳 [Paypi - Payment Gateway](https://github.com/Ayan7020/Paypi)
-**Secure payment processing system**
-- **TypeScript** backend with payment integration
-- Features: Transaction processing, fraud detection, API management
-- PCI-compliant security standards
-
-### 🤖 [Doc-quest Chatbot](https://github.com/Ayan7020/Doc-quest-Chatbot)
-**AI-powered document query system**
-- **Python** backend with NLP integration
-- Features: Document parsing, intelligent search, contextual responses
-- Machine learning pipeline for document understanding
-
-### 🛒 [Product Recommendation System](https://github.com/Ayan7020/Product-Recommended-System)
-**ML-powered recommendation engine**
-- **Python/HTML** full-stack implementation
-- Features: Collaborative filtering, content-based recommendations
-- Real-time analytics and user behavior tracking
-- ⭐ **1 Star** | 🔧 **Machine Learning Integration**
-
-## 🎯 Current Focus
-
-- 🔭 Working on **scalable microservices architectures**
-- 🌱 Learning **Kubernetes** and **DevOps practices**
-- 👯 Open to collaborate on **open-source backend projects**
-- 💡 Exploring **GraphQL** and **gRPC** technologies
+![Alembic](https://img.shields.io/badge/Alembic-7A7A7A?style=for-the-badge)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
  
-
-## 🏅 Achievements
-
-🦈 **Pull Shark x2** - Significant contributions to open source  
-⚡ **Quickdraw** - Fast response to issues and PRs  
-🎯 **YOLO** - Merged pull request without review  
-📈 **257 contributions** in the last year  
-⭐ **Active contributor** across multiple repositories  
+  
 
 ## 🤝 Let's Connect
 
@@ -104,16 +54,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayan7020)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanshaikh.pr@gmail.com)
 
-</div>
-
-## 💭 Quote
-
-> *"Building scalable systems isn't just about code - it's about creating solutions that grow with tomorrow's challenges."*
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayan7020&color=blue&style=for-the-badge" alt="Profile Views">
 </div>
 
 <div align="center">
