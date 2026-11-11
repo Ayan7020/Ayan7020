@@ -16,15 +16,13 @@ Obsessed with making the boring path reliable — request lifecycle, failure mod
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### Backend & Frameworks 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
 
 ### Message Brokers / Queues
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -32,7 +30,7 @@ Obsessed with making the boring path reliable — request lifecycle, failure mod
 
 ### Observability
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Loguru](https://img.shields.io/badge/Loguru-0EA5E9?style=for-the-badge)
+![Zap](https://img.shields.io/badge/Zap-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases & Cloud 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -41,9 +39,7 @@ Obsessed with making the boring path reliable — request lifecycle, failure mod
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-7A7A7A?style=for-the-badge)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
  
   
 
